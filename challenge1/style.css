@@ -1,0 +1,11 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+
+body,h1{
+   background-color: rgb(23, 2, 23);
+   font-family: 'Croissant One', cursive;
+   text-align: center;
+   color: white;
+} 
+
