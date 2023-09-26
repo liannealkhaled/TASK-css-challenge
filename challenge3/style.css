@@ -4,6 +4,7 @@
   width: 400px;
   
   
+  
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap');
@@ -16,6 +17,7 @@
   background-color: rgb(3, 3, 102);
 
 
+
 }
 
 .list {
@@ -23,12 +25,17 @@
   /* font-size: larger; */
   /* overflow: scroll; */
   /* overflow npt working!!!!! */
+   overflow: scroll;
+  height: 300px;
+  width: 400px;
 }
 
 .row {
   background-color: cornflowerblue;
   color: rgb(3, 3, 102);
-  /* overflow: scroll; */
+  /* overflow: scroll;
+  height: 30px;
+  width: 30px; */
   
   /* .row is used in ./index.js not in the html filee */
 }
